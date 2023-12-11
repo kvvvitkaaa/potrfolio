@@ -10,24 +10,24 @@ const Footer = () => {
       <div className="container">
         <div className="footer-wrapper">
           <ul className="contacts">
-            <li className="contacts-item">
-              <a href="#!">
+            <li className="contacts-item" >
+              <a href="#!" target='_blank'>
                 <img src={instagram} alt="Instagram" />
               </a>
             </li>
-            <li className="contacts-item">
-              <a href="#!">
+            <li className="contacts-item" >
+              <a href="https://github.com/kvvvitkaaa" target='_blank'>
                 <img src={github} alt="GitHub" />
               </a>
             </li>
             <li className="contacts-item">
-              <a href="#!">
+              <a href="https://www.linkedin.com/in/alyona-kvitka/" target='_blank'>
                 <img src={linkedin} alt="LinkedIn" />
               </a>
             </li>
           </ul>
           <div className="copyright">
-            <p>© 2022 frontend-dev.com</p>
+            <p>© 2023 Alona Kvitka</p>
           </div>
         </div>
       </div>

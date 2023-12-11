@@ -21,7 +21,7 @@ const ProjectPage = () => {
                 <div className="project-details__descript">
                     <p>{project.skills}</p>
                 </div>
-                <BtnOutline />
+                <BtnOutline link={project.gitHubLink}/>
             </div>
         </div>
     </main>
