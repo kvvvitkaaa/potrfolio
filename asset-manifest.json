@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio-react/static/css/main.b194663d.css",
+    "main.js": "/portfolio-react/static/js/main.ba8f1c9d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio-react/static/js/787.1ed0c42c.chunk.js",
+    "static/media/bookstore-Big.png": "/portfolio-react/static/media/bookstore-Big.5e7f375f4db3c43db1f5.png",
+    "static/media/bookstore.png": "/portfolio-react/static/media/bookstore.5fe4d10a706c7017c42a.png",
+    "static/media/Abstract.png": "/portfolio-react/static/media/Abstract.47bbbb572107479fdaf6.png",
+    "static/media/Sun.svg": "/portfolio-react/static/media/Sun.51393a375a81e44f27f1e33d713ca0ae.svg",
+    "static/media/Moon.svg": "/portfolio-react/static/media/Moon.a84eb240a8739f0ef02594df4c131706.svg",
+    "index.html": "/portfolio-react/index.html",
+    "main.b194663d.css.map": "/portfolio-react/static/css/main.b194663d.css.map",
+    "main.ba8f1c9d.js.map": "/portfolio-react/static/js/main.ba8f1c9d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio-react/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b194663d.css",
+    "static/js/main.ba8f1c9d.js"
+  ]
+}
