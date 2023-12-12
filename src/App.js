@@ -1,6 +1,6 @@
 import "./styles/styles.css";
 import {
-  BrowserRouter as Router,
+  HashRouter,
   Route,Routes
 } from 'react-router-dom';
 
@@ -17,7 +17,7 @@ import ScrollToTop from "./utils/ScrollToTop";
 function App() {
   return (
     <div className="App">
-      <Router>
+      <HashRouter>
         <ScrollToTop/>
         <Navbar />
         <Routes>
@@ -28,7 +28,7 @@ function App() {
           <Route path='/contacts' element={<Contacts />} />
         </Routes>
         <Footer/>
-      </Router>
+      </HashRouter>
   </div>
   );
 }
