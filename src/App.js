@@ -17,7 +17,7 @@ import ScrollToTop from "./utils/ScrollToTop";
 function App() {
   return (
     <div className="App">
-      <HashRouter>
+      <BrowserRouter basename="/portfolio">
         <ScrollToTop/>
         <Navbar />
         <Routes>
@@ -28,7 +28,7 @@ function App() {
           <Route path='/contacts' element={<Contacts />} />
         </Routes>
         <Footer/>
-      </HashRouter>
+      </BrowserRouter>
   </div>
   );
 }
